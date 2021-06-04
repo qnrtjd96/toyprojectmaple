@@ -19,7 +19,7 @@
 		<div><a href="">직업정보</a></div>
 		<div><a href="">추옵계산기</a></div>
 		<div><a href="">경험치 계산기</a></div>
-		<div><a href="">아케인 심볼 계산기</a></div>
+		<div><a href="ArcaneCalculator">아케인 심볼 계산기</a></div>
 		<div><a href="">보스정보</a></div>
 		<div><a href="">무토레시피</a></div>
 		<div><a href="">추천사냥터</a></div>
