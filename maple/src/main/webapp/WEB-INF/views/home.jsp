@@ -15,6 +15,7 @@
 	#main div{ float: left; width:300px; height:300px; border: 1px solid black; margin: 5px;}
 </Style>
 <body>
+	<div><a href="http://wachan.me/">홈페이지 디자인참고</a></div>
 	<div id="main">
 		<div><a href="">직업정보</a></div>
 		<div><a href="">추옵계산기</a></div>
@@ -23,8 +24,10 @@
 		<div><a href="">보스정보</a></div>
 		<div><a href="">무토레시피</a></div>
 		<div><a href="">추천사냥터</a></div>
-		<div><a href="">링크, 유니온정리</a></div>
+		<div><a href="/Link">링크, 유니온정리</a></div>
 		<div><a href="">mvp작 계산기</a></div>
+		<div><a href="">스펙계산기</a></div>
+		<div><a href="">검색시스템</a></div>
 	</div>
 </body>
 </html>
